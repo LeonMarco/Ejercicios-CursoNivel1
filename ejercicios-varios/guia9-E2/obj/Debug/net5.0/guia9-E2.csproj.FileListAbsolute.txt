@@ -1,0 +1,5 @@
+C:\Users\USURIO\OneDrive\Escritorio\Curso C# Nivel 1\ejercicios-varios\guia9-e2\obj\Debug\net5.0\guia9-E2.csproj.AssemblyReference.cache
+C:\Users\USURIO\OneDrive\Escritorio\Curso C# Nivel 1\ejercicios-varios\guia9-e2\obj\Debug\net5.0\guia9-E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\OneDrive\Escritorio\Curso C# Nivel 1\ejercicios-varios\guia9-e2\obj\Debug\net5.0\guia9-E2.AssemblyInfoInputs.cache
+C:\Users\USURIO\OneDrive\Escritorio\Curso C# Nivel 1\ejercicios-varios\guia9-e2\obj\Debug\net5.0\guia9-E2.AssemblyInfo.cs
+C:\Users\USURIO\OneDrive\Escritorio\Curso C# Nivel 1\ejercicios-varios\guia9-e2\obj\Debug\net5.0\guia9-E2.csproj.CoreCompileInputs.cache
